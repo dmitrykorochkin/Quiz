@@ -1,2 +1,2 @@
 # Quiz
-Simple Quiz
+## Simple Quiz
