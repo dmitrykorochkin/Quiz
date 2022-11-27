@@ -1,33 +1,33 @@
 const questions = [
 	{
-		question: "Какой язык работает в браузере?",
-		answers: ["Java", "C", "Python", "JavaScript"],
+		question: "В каком году вышла первая часть Терминатора?",
+		answers: ["1991", "1985", "1987", "1984"],
 		correct: 4,
 	},
 	{
-		question: "Что означает CSS?",
+		question: "Кто сыграл главную роль в фильме Красотка",
 		answers: [
-			"Central Style Sheets",
-			"Cascading Style Sheets",
-			"Cascading Simple Sheets",
-			"Cars SUVs Sailboats",
-		],
-		correct: 2,
-	},
-	{
-		question: "Что означает HTML?",
-		answers: [
-			"Hypertext Markup Language",
-			"Hypertext Markdown Language",
-			"Hyperloop Machine Language",
-			"Helicopters Terminals Motorboats Lamborginis",
+			"Джулия Робертс",
+			"Дженнифер Энистон",
+			"Синди Кроуфорд",
+			"Памела Андерсон",
 		],
 		correct: 1,
 	},
 	{
-		question: "В каком году был создан JavaScript?",
-		answers: ["1996", "1995", "1994", "все ответы неверные"],
-		correct: 2,
+		question: "Сколько оскаров взял фильм - Властелин колец: Возвращение короля?",
+		answers: [
+			"3",
+			"7",
+			"0",
+			"11",
+		],
+		correct: 4,
+	},
+	{
+		question: "Кто из этих актеров стал губернатором Калифорнии?",
+		answers: ["Арнольд Шварценеггер", "Сильвестр Сталлоне", "Микки Рурк", "Дензел Вашингтон"],
+		correct: 1,
 	},
 ];
 // находим элементы 
