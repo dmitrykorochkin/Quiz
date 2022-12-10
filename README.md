@@ -1,4 +1,4 @@
 # Interactive quiz - "Guess the movie"
 
 
-## Создано при помощи JavaScript
+## Создано при помощи HTML CSS JavaScript
